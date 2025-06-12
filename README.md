@@ -12,4 +12,4 @@
 
 ## 📝 License
 
-MIT — Free to use with attribution.
+MPL-2.0.
