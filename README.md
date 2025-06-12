@@ -10,7 +10,13 @@
 
 ![preview](preview.png)
 
-## License
+---
 
-This project is licensed under the Mozilla Public License 2.0.  
-See the [LICENSE](LICENSE) file for more details.
+## 📝 ⚖️الرخصة
+
+تم نشر هذا المشروع بموجب رخصة **[MPL-2.0](LICENSE)**.
+
+---
+
+
+
